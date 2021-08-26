@@ -1,5 +1,5 @@
-# energy-manager-cash-frontend
-Front end app for enery manager done with javafx11 gradle
+# Junit TestFX Sample 
+Test JavaFX App
 
 ```bash
 ./gradlew run //to run
